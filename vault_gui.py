@@ -70,7 +70,7 @@ class FileVaultGUI:
     def _create_styles(self):
         style = ttk.Style()
         
-        # Configure the theme
+        # Configure the theme of the app
         style.theme_use('clam')
         
         # Configure colors
